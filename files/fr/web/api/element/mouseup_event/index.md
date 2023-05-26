@@ -14,7 +14,7 @@ L'évènement `mouseup` peut être vu comme le contrepoint de l'évènement [`mo
 <table class="properties">
   <tbody>
     <tr>
-      <th scope="row">Bouillonne</th>
+      <th scope="row">Se propage/remonte dans le DOM</th>
       <td>Oui</td>
     </tr>
     <tr>
